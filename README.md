@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/raxmatovshehroz" target="blank"><img src="https://img.shields.io/twitter/follow/raxmatovshehroz?logo=twitter&style=for-the-badge" alt="raxmatovshehroz" /></a> </p>
 
-- 🔭 I’m currently working on [blog site](https://shehroz.vercel.app/)
+- 🔭 I’m currently working on [blog site](shehroz-blog.vercel.app/)
 
 - 👯 I’m looking to collaborate on [Linuxbek](https://new.linuxbek.uz/)
 
 - 🤝 I’m looking for help with [UZINFOCOM](https://github.com/uzinfocom-org)
 
-- 👨‍💻 All of my projects are available at [https://shehroz.vercel.app/](https://shehroz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shehroz.vercel.app/](shehroz-blog.vercel.app/)
 
 - 📝 I regularly write articles on [https://shehroz.vercel.app/](https://shehroz.vercel.app/)
 
