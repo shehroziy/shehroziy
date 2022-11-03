@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [UZINFOCOM](https://github.com/uzinfocom-org)
 
-- 👨‍💻 All of my projects are available at [https://shehroz.vercel.app/](shehroz-blog.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shehroz-blog.vercel.app//](shehroz-blog.vercel.app/)
 
-- 📝 I regularly write articles on [https://shehroz.vercel.app/](https://shehroz.vercel.app/)
+- 📝 I regularly write articles on [https://shehroz-blog.vercel.app/](https://shehroz.vercel.app/)
 
 - 📫 How to reach me **raxmatshehroz@gmail.com**
 
