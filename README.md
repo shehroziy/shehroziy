@@ -21,7 +21,7 @@
 <p>
   <a href="https://open.spotify.com/user/31iarcu4bgc4nvibi3dxuc2azjoy"><img src="./assets/Trophy 3.png" width=48% alt="Crazy nerd in love with music"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://yummyanime.club/users/id863269"><img src="./assets/Trophy 4.png" width=48%></a>
+  
 </p>
 
 
