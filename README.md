@@ -15,7 +15,7 @@
 <p>
   <a href="https://commits.top/uzbekistan.html"><img src="./assets/Trophy 1.png" width=48% alt="Ex Genemator who was #1 in Uzbekistan"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/uwussimo"><img src="./assets/Trophy 2.png" width=48% alt="13 years of experience"></a>
+  <a href="https://github.com/Dostonlv"><img src="./assets/Trophy 2.png" width=48% alt="13 years of experience"></a>
 </p>
 
 <p>
