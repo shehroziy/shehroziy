@@ -1,6 +1,5 @@
 <p align="center">
-  <samp>
-    <a href="https://shehroz-blog.vercel.app">website</a> .  
+  <samp>  
     <a href="https://github.com/shehroziy#js-contribution-activity">now</a> . 
     <a href="https://github.com/shehroziy?tab=repositories">projects</a> . 
     <a href="https://github.com/uzinfocom-org">work</a> .
