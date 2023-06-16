@@ -1,12 +1,8 @@
-<p>
-    <a href="https://shehroz-blog.vercel.app"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
-</p>
-
 <p align="center">
   <samp>
     <a href="https://shehroz-blog.vercel.app">website</a> .  
-    <a href="https://github.com/rshehroz1#js-contribution-activity">now</a> . 
-    <a href="https://github.com/rshehroz1?tab=repositories">projects</a> . 
+    <a href="https://github.com/shehroziy#js-contribution-activity">now</a> . 
+    <a href="https://github.com/shehroziy?tab=repositories">projects</a> . 
     <a href="https://github.com/uzinfocom-org">work</a> .
     <a href="https://t.me/RShehroz">telegram</a>
   </samp>
