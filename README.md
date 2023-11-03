@@ -3,7 +3,7 @@
     <a href="https://github.com/shehroziy#js-contribution-activity">now</a> . 
     <a href="https://github.com/shehroziy?tab=repositories">projects</a> . 
     <a href="https://github.com/uzinfocom-org">work</a> .
-    <a href="https://t.me/RShehroz">telegram</a>
+    <a href="https://t.me/alsheroziy">telegram</a>
   </samp>
 </p>
 
